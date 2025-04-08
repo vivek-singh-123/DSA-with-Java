@@ -14,9 +14,3 @@ public class ElementsMultiplyOddEven {
         }
     }
 }
-
-
-//sum of all the elements of an integer array
-//average of all the elements of an integer array
-//multiplication ....
-//max/min of all the elements of an integer
